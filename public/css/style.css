@@ -1,0 +1,29 @@
+
+.container{
+	width: 75%;
+}
+
+img.card-img-top{
+	max-width: 50%;
+	margin: 0 auto;
+}
+
+.img{
+	width: 100%;
+}
+
+.img img.card-img-top{
+	max-width: 100%;
+}
+
+.list-group-item{
+	background : #fafafa;
+}
+
+span.card-title{
+	font-size: 15px;
+}
+
+.navbar-brand img{
+	width: auto;
+}
